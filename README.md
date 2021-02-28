@@ -163,7 +163,7 @@ you keep your CSS, the saner you'll be.
 
 Here's the full list of KF8 HTML and CSS support:
 
-* [List of support HTML and CSS tags](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000729901)
+* [List of support HTML and CSS tags](https://kdp.amazon.com/en_US/help/topic/GG5R7N649LECKP7U)
 
 
 ### What are these other files? ###
